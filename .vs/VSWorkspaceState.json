@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Controllers",
+    "\\Models"
   ],
+  "SelectedNode": "\\JokesWebApp.sln",
   "PreviewInSolutionExplorer": false
 }
