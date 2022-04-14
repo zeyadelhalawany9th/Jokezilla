@@ -64,7 +64,7 @@ namespace JokesWebApp.Controllers
         public IActionResult Create()
         {
             return View();
-        }
+        },
 
 
         // POST: Jokes/Create
